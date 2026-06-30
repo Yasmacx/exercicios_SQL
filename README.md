@@ -1,0 +1,3 @@
+# exercicios_SQL
+
+estudos
