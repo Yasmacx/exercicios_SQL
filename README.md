@@ -8,8 +8,4 @@ Este repositório tem como finalidade acompanhar minha evolução no aprendizado
 
 O foco é consolidar os conhecimentos por meio de exercícios práticos e servir como material de consulta para projetos futuros.
 
-## Autor
 
-Desenvolvido por Amin Roxx durante minha jornada de estudos em Banco de Dados.
-
-Sempre buscando evoluir um commit por vez. 🚀
